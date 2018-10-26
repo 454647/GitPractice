@@ -1,3 +1,6 @@
+from directory import file
+
+
 def main:
     print("hello to python")
 
