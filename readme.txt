@@ -4,4 +4,4 @@ this is a readme file for this GitRepository
 
 removing a mistakenly added file
 
-git reset HARD path/to/file.txt
+git rm --cached path/to/file.txt
